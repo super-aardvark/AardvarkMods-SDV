@@ -1,7 +1,7 @@
 {
   "Name": "AntiSocial NPCs",
   "Author": "Super Aardvark",
-  "Version": "1.0.4-unofficial",
+  "Version": "1.0.6",
   "Description": "Allows modders to create NPCs that the player can't befriend.",
   "UniqueID": "SuperAardvark.AntiSocial",
   "EntryDll": "AntiSocialNPCs.dll",

@@ -111,7 +111,7 @@ namespace SuperAardvark.AntiSocial
         }
 
         private static void get_CanSocialize_Postfix(
-            bool __result,
+            ref bool __result,
             NPC __instance)
         {
             try
